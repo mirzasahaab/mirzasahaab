@@ -31,7 +31,6 @@ At **Nisum USA**, I've shipped RAG pipelines, document intelligence copilots, an
 
 ## 🤖 AI & Agentic Systems
 
-> *The 2024 resume listed LangChain + an API wrapper. 2026 production AI means agentic pipelines, eval rigor, and systems that actually run.*
 
 <div align="center">
 
@@ -186,7 +185,7 @@ Enterprise micro frontend platform with independently deployable modules and Jav
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirza-bilal-ali)
-[![Email](https://img.shields.io/badge/mirzabilal200%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzabilal200@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzabilal200@gmail.com)
 
 *"Build AI systems that ship to production. Not prototypes."*
 
