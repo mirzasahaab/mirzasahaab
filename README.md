@@ -20,13 +20,11 @@ At **Nisum USA**, I've shipped RAG pipelines, document intelligence copilots, an
 
 <div align="center">
 
-## 🔥 Right Now
+🤖 **Building with** &nbsp; ![Agentic RAG](https://img.shields.io/badge/Agentic_RAG-8A2BE2?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-FF6B35?style=flat-square) ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square) ![Claude API](https://img.shields.io/badge/Anthropic_Claude-D4A017?style=flat-square)
 
-| | |
-|:---:|:---|
-| 🤖 | **Building with** &nbsp;`Agentic RAG` &nbsp;`LangChain` &nbsp;`MCP` &nbsp;`Azure OpenAI` &nbsp;`Anthropic Claude API` |
-| 🏗️ | **Architecting** &nbsp;`Micro Frontends` &nbsp;`Module Federation` &nbsp;`AWS ECS Fargate` &nbsp;`Event-Driven Systems` |
-| 🟢 | **Open to** &nbsp;`Senior AI Engineer` &nbsp;`Staff Engineer` &nbsp;`Full Stack AI` &nbsp;`US-based / Remote` |
+🏗️ **Architecting** &nbsp; ![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-20232A?style=flat-square) ![Module Federation](https://img.shields.io/badge/Module_Federation-FF6B35?style=flat-square) ![AWS ECS Fargate](https://img.shields.io/badge/AWS_ECS_Fargate-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Event-Driven](https://img.shields.io/badge/Event--Driven_Systems-006400?style=flat-square)
+
+🟢 **Open to** &nbsp; ![Senior AI Engineer](https://img.shields.io/badge/Senior_AI_Engineer-blueviolet?style=flat-square) ![Staff Engineer](https://img.shields.io/badge/Staff_Engineer-0A66C2?style=flat-square) ![Full Stack AI](https://img.shields.io/badge/Full_Stack_AI-teal?style=flat-square) ![US Remote](https://img.shields.io/badge/US--based_%2F_Remote-green?style=flat-square)
 
 </div>
 
