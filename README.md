@@ -21,13 +21,12 @@ At **Nisum USA**, I've shipped RAG pipelines, document intelligence copilots, an
 <div align="center">
 
 | | |
-|:---:|:---|
 | 🤖 | **Building with** &nbsp;`Agentic RAG` &nbsp;`LangChain` &nbsp;`MCP` &nbsp;`Azure OpenAI` &nbsp;`Anthropic Claude API` |
 | 🏗️ | **Architecting** &nbsp;`Micro Frontends` &nbsp;`Module Federation` &nbsp;`AWS ECS Fargate` &nbsp;`Event-Driven Systems` |
 | 🟢 | **Open to** &nbsp;`Senior AI Engineer` &nbsp;`Staff Engineer` &nbsp;`Full Stack AI` &nbsp;`US-based / Remote` |
 
 </div>
----
+
 
 ## 🤖 AI & Agentic Systems
 
