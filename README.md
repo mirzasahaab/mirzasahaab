@@ -1,48 +1,70 @@
 <div align="center">
 
-# 👋 Hey, I'm Mirza Bilal Ali Baig
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mirza%20Bilal%20Ali%20Baig&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20AI%20%26%20Full%20Stack%20Engineer&descAlignY=55&descSize=18"/>
 
-### Senior Full Stack Engineer · React · Java Spring Boot · AWS · GenAI
+### 🤖 AI Engineer · Full Stack Architect · Agentic Systems Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirza-bilal-ali)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzabilal200@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=mirzasahaab&style=for-the-badge&color=0e75b6)](https://github.com/mirzasahaab)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzabilal200@gmail.com)
+[![Location](https://img.shields.io/badge/Dallas%2C%20TX-USA-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/mirzasahaab)
+[![Profile Views](https://komarev.com/ghpvc/?username=mirzasahaab&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/mirzasahaab)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧠 Who I Am
 
-I'm a **Senior Full Stack Software Engineer** with 7+ years building scalable web applications across **retail, healthcare, and enterprise** domains. I specialize in **React micro frontends**, **Java Spring Boot microservices**, and **cloud-native AWS architectures** — shipping software that handles 50,000+ concurrent users with zero performance degradation.
+I'm a **Senior AI + Full Stack Engineer** shipping production software at scale — and increasingly, **production AI systems**. I sit at the intersection of **agentic AI**, **micro frontend architecture**, and **cloud-native engineering**, building systems that don't just integrate LLMs but actually automate real workflows end-to-end.
 
-Currently at **Nisum USA**, I've led full-stack delivery for clients like **Albertsons** and **Williams-Sonoma**, shipped AI-powered GenAI features (RAG pipelines, document copilots), and mentored engineers while cutting onboarding time from 5 weeks to 2 weeks.
+At **Nisum USA**, I've shipped RAG pipelines, document intelligence copilots, and GenAI features for enterprise clients including **Albertsons** and **Williams-Sonoma** — serving **50,000+ concurrent users** with zero downtime. I build in React, Java Spring Boot, Python, and AWS by day. I'm deepening into **agentic AI, MCP integrations, and multi-agent orchestration** as the field evolves.
 
-- 🔭 Currently building: **Micro Frontend platforms with Module Federation + Java Spring Boot on AWS ECS Fargate**
-- 🤖 Exploring: **GenAI / RAG pipelines with LangChain, Azure OpenAI & Anthropic Claude API**
-- ⚡ Fun fact: I reduced a client's manual workflows by **90%** with a RAG-based AI chat system
+```
+🔭 Current Stack Focus  →  Agentic RAG · LangChain · MCP · Azure OpenAI · Anthropic Claude API
+🏗️ Architecture Focus   →  Micro Frontends (Module Federation) · AWS ECS Fargate · Event-Driven Systems
+📍 Open to             →  Senior AI Engineer · Staff Engineer · Full Stack AI roles in the US
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🤖 AI & Agentic Systems
 
-### Frontend
+> *The 2024 resume listed LangChain + an API wrapper. 2026 production AI means agentic pipelines, eval rigor, and systems that actually run.*
+
+<div align="center">
+
+| Capability | Tools & Frameworks |
+|---|---|
+| **Agentic RAG Pipelines** | LangChain · LlamaIndex · Pinecone · Semantic Search |
+| **LLM Integration (Production)** | Azure OpenAI · Anthropic Claude API · OpenAI API · GCP Vertex AI |
+| **Agent Orchestration** | LangChain Agents · Tool Use · MCP (Model Context Protocol) |
+| **AI Observability** | Datadog · CloudWatch · LLM accuracy tracking · Response latency |
+| **Vector & Knowledge Layer** | Pinecone · DynamoDB · PostgreSQL (pgvector) |
+| **Prompt Engineering** | Structured prompting · Chain-of-thought · Output validation |
+| **AI APIs Certified** | Anthropic Claude API ✅ · AWS AI Services ✅ |
+
+</div>
+
+---
+
+## 💼 Tech Stack
+
+### 🎨 Frontend & Micro Frontend Architecture
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Module Federation](https://img.shields.io/badge/Module_Federation-FF6B35?style=for-the-badge&logo=webpack&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### ⚙️ Backend & APIs
+![Java](https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Cloud & DevOps
+### ☁️ Cloud, DevOps & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -50,105 +72,122 @@ Currently at **Nisum USA**, I've led full-stack delivery for clients like **Albe
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
-### Databases
+### 🤖 AI / GenAI / Agentic
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D4A017?style=for-the-badge&logo=anthropic&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🗄️ Databases
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### AI / GenAI
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mirzasahaab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzasahaab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mirzasahaab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzasahaab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mirzasahaab&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mirzasahaab&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 Key Wins & Impact
+## 🏆 Proven Impact at Scale
 
-| Metric | Result |
-|--------|--------|
-| 🚀 E-commerce conversion lift | **+15%** (AlfaMall frontend UX) |
-| ⚡ API response latency reduction | **-40%** (Spring Boot optimization) |
-| 🤖 Manual workflow elimination | **-90%** (RAG-based AI system) |
-| 🧪 Test coverage maintained | **85%+** across all projects |
-| 📦 Deployment errors | **Zero** across 10+ major releases |
-| 👥 Concurrent users served | **50,000+** with zero degradation |
-| ⏱️ Engineer onboarding time | **5 weeks → 2 weeks** |
-| 🔮 Forecasting accuracy boost | **+30%** (Category Excellence Allocator) |
+<div align="center">
 
----
+| 🎯 Outcome | 📊 Result | 🏢 Domain |
+|---|---|---|
+| AI workflow automation | **90% manual effort eliminated** | Enterprise / GenAI |
+| RAG retrieval relevance | **+30% improvement** | AI / Document Intelligence |
+| API response latency | **-40% reduction** | Retail / Spring Boot |
+| Page load time | **-40% faster** | E-commerce / React |
+| E-commerce conversions | **+15% lift** | Retail / Frontend |
+| Forecasting accuracy | **+30% improvement** | Enterprise SaaS |
+| Concurrent users served | **50,000+ with zero degradation** | Cloud / AWS |
+| Deployment errors | **Zero across 10+ major releases** | CI/CD / DevOps |
+| Test coverage maintained | **85%+ across all projects** | Quality Engineering |
+| Engineer onboarding | **5 weeks → 2 weeks** | Engineering Leadership |
 
-## 💼 Featured Projects
-
-### 🔬 RAG-Based Enterprise AI Chat System
-> *React · Java Spring Boot · GraphQL · DynamoDB · AWS (ECS Fargate, S3, Lambda) · Azure OpenAI · LangChain*
-
-AI-powered document intelligence platform for enterprise users. Built RAG pipelines with LangChain + Azure OpenAI, improving query response time by **40%** and eliminating **90% of manual workflows** for 200+ users across 5 business units.
+</div>
 
 ---
 
-### 📊 Category Excellence Allocator — Enterprise Forecasting Platform
-> *React · TypeScript · Module Federation · Java Spring Boot · PostgreSQL · AWS (SNS/SQS, ECS Fargate)*
+## 🚀 Featured Projects
 
-Consolidated **10+ fragmented UIs** into one secure platform for 200+ users. RBAC, data encryption, and real-time forecasting built in from day one. Saved **120+ hours/month** and boosted forecasting accuracy by **30%**.
+<table>
+<tr>
+<td width="50%">
 
----
+### 🤖 RAG-Based Enterprise AI Chat System
+`Python` `LangChain` `Azure OpenAI` `React` `Spring Boot` `GraphQL` `DynamoDB` `AWS`
+
+Agentic document intelligence platform for enterprise users. Built production RAG pipelines with LangChain + Azure OpenAI. Achieved **40% faster query response**, **+20% LLM accuracy visibility**, and eliminated **90% of manual document workflows** for 200+ users across 5 business units.
+
+</td>
+<td width="50%">
+
+### 📊 Category Excellence Allocator
+`React` `TypeScript` `Module Federation` `Spring Boot` `PostgreSQL` `AWS SNS/SQS`
+
+Consolidated **10+ fragmented enterprise UIs** into a single secure forecasting platform. RBAC, encryption, real-time data. Saved **120+ hours/month**, boosted forecasting accuracy by **30%**, cut approval cycles **35%**.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🏥 Clinical Trial Platform (HIPAA-Aligned)
-> *React · TypeScript · Java Spring Boot · REST API · PostgreSQL · AWS (S3, EC2)*
+`React` `TypeScript` `Spring Boot` `PostgreSQL` `AWS` `JWT` `RBAC`
 
-Decentralized clinical trial management with full HIPAA-aligned security: JWT auth, RBAC, data encryption, AWS infrastructure. Expanded trial reach to **3× more patient populations**.
+Decentralized clinical trial management with full HIPAA-aligned security stack. Expanded trial reach to **3× more patient populations** while maintaining data encryption, JWT auth, and role-based access controls throughout.
 
----
+</td>
+<td width="50%">
 
 ### 🛠️ Service Center Repair Experience Platform
-> *React · TypeScript · Module Federation · Java Spring Boot · DynamoDB · AWS ECS Fargate*
+`React` `TypeScript` `Module Federation` `Spring Boot` `DynamoDB` `ECS Fargate`
 
-Micro frontend architecture with independently deployable modules serving enterprise repair workflows. **85%+ test coverage** across Jest, RTL, and JUnit. Full CloudWatch + Datadog observability.
+Enterprise micro frontend platform with independently deployable modules and Java Spring Boot microservice backend. **85%+ test coverage** across Jest, RTL, and JUnit. Full Datadog + CloudWatch observability.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 **Claude Code in Action** — Anthropic (2026)
-- 🧠 **Building Generative AI Skills for Developers** — LinkedIn Learning (2024)
-- ☁️ **AWS Development Tools** (CodePipeline, CodeCommit, CodeBuild) — Amazon Web Services (2020)
-- ☁️ **Advanced CloudFormation: Macros** — Amazon Web Services (2020)
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to discussing interesting engineering problems, AI/GenAI applications, or collaboration opportunities.
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirza-bilal-ali)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzabilal200@gmail.com)
+| Certification | Issuer | Year |
+|---|---|---|
+| 🏅 **Claude Code in Action** | Anthropic | 2026 |
+| 🧠 **Building Generative AI Skills for Developers** | LinkedIn Learning | 2024 |
+| ☁️ **AWS Development Tools** (CodePipeline, CodeCommit, CodeBuild) | Amazon Web Services | 2020 |
+| ☁️ **Advanced CloudFormation: Macros** | Amazon Web Services | 2020 |
 
 </div>
 
----
-
 <div align="center">
 
-*"Ship fast, test thoroughly, automate everything."*
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirza-bilal-ali)
+[![Email](https://img.shields.io/badge/mirzabilal200%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzabilal200@gmail.com)
+
+*"Build AI systems that ship to production. Not prototypes."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
