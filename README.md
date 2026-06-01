@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mirza%20Bilal%20Ali%20Baig&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20AI%20%26%20Full%20Stack%20Engineer&descAlignY=55&descSize=18"/>
+<h1>👋 Mirza Bilal Ali Baig</h1>
 
 ### 🤖 AI Engineer · Full Stack Architect · Agentic Systems Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirza-bilal-ali)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzabilal200@gmail.com)
-[![Location](https://img.shields.io/badge/Dallas%2C%20TX-USA-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/mirzasahaab)
 [![Profile Views](https://komarev.com/ghpvc/?username=mirzasahaab&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/mirzasahaab)
 
 </div>
@@ -19,12 +18,15 @@ I'm a **Senior AI + Full Stack Engineer** shipping production software at scale 
 
 At **Nisum USA**, I've shipped RAG pipelines, document intelligence copilots, and GenAI features for enterprise clients including **Albertsons** and **Williams-Sonoma** — serving **50,000+ concurrent users** with zero downtime. I build in React, Java Spring Boot, Python, and AWS by day. I'm deepening into **agentic AI, MCP integrations, and multi-agent orchestration** as the field evolves.
 
-```
-🔭 Current Stack Focus  →  Agentic RAG · LangChain · MCP · Azure OpenAI · Anthropic Claude API
-🏗️ Architecture Focus   →  Micro Frontends (Module Federation) · AWS ECS Fargate · Event-Driven Systems
-📍 Open to             →  Senior AI Engineer · Staff Engineer · Full Stack AI roles in the US
-```
+<div align="center">
 
+| | |
+|:---:|:---|
+| 🤖 | **Building with** &nbsp;`Agentic RAG` &nbsp;`LangChain` &nbsp;`MCP` &nbsp;`Azure OpenAI` &nbsp;`Anthropic Claude API` |
+| 🏗️ | **Architecting** &nbsp;`Micro Frontends` &nbsp;`Module Federation` &nbsp;`AWS ECS Fargate` &nbsp;`Event-Driven Systems` |
+| 🟢 | **Open to** &nbsp;`Senior AI Engineer` &nbsp;`Staff Engineer` &nbsp;`Full Stack AI` &nbsp;`US-based / Remote` |
+
+</div>
 ---
 
 ## 🤖 AI & Agentic Systems
