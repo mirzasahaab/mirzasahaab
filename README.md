@@ -24,7 +24,7 @@ At **Nisum USA**, I've shipped RAG pipelines, document intelligence copilots, an
 
 🏗️ **Architecting** &nbsp; ![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-20232A?style=flat-square) ![Module Federation](https://img.shields.io/badge/Module_Federation-FF6B35?style=flat-square) ![AWS ECS Fargate](https://img.shields.io/badge/AWS_ECS_Fargate-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Event-Driven](https://img.shields.io/badge/Event--Driven_Systems-006400?style=flat-square)
 
-🟢 **Open to** &nbsp; ![Senior AI Engineer](https://img.shields.io/badge/Senior_AI_Engineer-blueviolet?style=flat-square) ![Staff Engineer](https://img.shields.io/badge/Staff_Engineer-0A66C2?style=flat-square) ![Full Stack AI](https://img.shields.io/badge/Full_Stack_AI-teal?style=flat-square) ![US Remote](https://img.shields.io/badge/US--based_%2F_Remote-green?style=flat-square)
+🟢 **Open to** &nbsp; ![Senior AI Engineer](https://img.shields.io/badge/Senior_AI_Engineer-blueviolet?style=flat-square) ![Staff Engineer](https://img.shields.io/badge/Staff_Engineer-0A66C2?style=flat-square) ![Full Stack AI](https://img.shields.io/badge/Full_Stack_AI-teal?style=flat-square)
 
 </div>
 
